@@ -38,6 +38,7 @@
 - At `x = 2/3`, function `f(x)` becomes zero. And very small nudges don't cause any change to the function `f(x)`, and thereby the derivative.
 
 **Derivative of a function with multiple inputs:**
+- The function used here is: `d = a * b  + c`, with inputs `a, b, c`.
 - 
 
 
