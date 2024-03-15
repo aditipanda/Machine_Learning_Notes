@@ -31,8 +31,22 @@
 - How much does the function go up or down? What is the sensitivity of the function the change `h` made to input `a`?
 - This, in fact, can help to calculate the derivative of the function. Taking `h = 0.0000001` for `a = 3.0`, we get `f(x + h) - f(x) = 0.00140003000` and `(f(x + h) - f(x))/h = 14.00030000`.
 
-- From the graph we can see, at `x = 3.0`, the value of `f(x)` is approx. `14` and a slight nudge to the positive x-axis shifts the function `f(x)` higher! This positive slope is the value of the derivative.
+- From the graph we can see, at `x = 3.0`, the value of `f(x)` is approx. `14` and a slight nudge to the positive x-axis shifts the function `f(x)` higher! The numerical approximation of this positive slope is the value of the derivative.
 
-- Two more examples are provided. With a negative `h`, we see the function `f(x)` also falls down - negative slope, hence negative derivative!
+- Two more examples are provided. With a negative `x = - 3.0`, the value `x + h` becomes slightly more positive, so `f(x + h)` becomes slightly higher, although, it is still a negative value!
 
 - At `x = 2/3`, function `f(x)` becomes zero. And very small nudges don't cause any change to the function `f(x)`, and thereby the derivative.
+
+**Derivative of a function with multiple inputs:**
+- 
+
+
+
+
+
+
+
+
+
+
+
